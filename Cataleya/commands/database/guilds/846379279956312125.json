@@ -1,0 +1,22 @@
+{
+  "GuildID": "846379279956312125",
+  "GuildName": "Serveur de лед",
+  "Data": {
+    "Owner": "лед#0007",
+    "OwnerID": "581870523810840583",
+    "WhiteListedUserIDs": [
+      "757278263633510410"
+    ],
+    "WhiteListedUsers": [
+      "<@757278263633510410>"
+    ],
+    "BlackListedUserIDs": [
+      "847515960319279114"
+    ],
+    "BlackListedUsers": [
+      "<@847515960319279114>"
+    ],
+    "TrustListedUserIDs": [],
+    "TrustListedUsers": []
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "arabeirv",
+  "version": "1.0.0",
+  "description": "ntm",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "irv",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://"
+  },
+  "homepage": "",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "discord-anti-spam": "^2.5.1",
+    "discord.js": "^12.5.1",
+    "discord.js-pagination": "^1.0.3",
+    "embed": "^0.0.1",
+    "ms": "^2.1.2",
+    "mv": "^2.1.1",
+    "quick.db": "^7.1.3"
+  }
+}
